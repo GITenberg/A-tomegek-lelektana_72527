@@ -1,0 +1,45 @@
+_repo: A-tomegek-lelektana_72527
+_version: 0.0.1
+alternative_title: Psychologie des foules. Hungarian
+contributor:
+  translator:
+    agent_name: Balla, Antal
+    birthdate: 1886
+    deathdate: 1953
+    gutenberg_agent_id: '56713'
+    url: http://www.gutenberg.org/2009/agents/56713
+    wikipedia: https://hu.wikipedia.org/wiki/Balla_Antal_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2023-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72527'
+language: hu
+pgterms:marc905: 20231227163548lebon
+pgterms:marc906: '1913'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crowds'
+- !lcc 'HM'
+- GITenberg
+title: A tömegek lélektana
+url: http://www.gutenberg.org/ebooks/72527
