@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56713'
     url: http://www.gutenberg.org/2009/agents/56713
     wikipedia: https://hu.wikipedia.org/wiki/Balla_Antal_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Bon, Gustave
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gustave_Le_Bon
     - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72527#A-tomegek-lelektana
 gutenberg_issued: '2023-12-28'
 gutenberg_type: Text
 identifiers:
